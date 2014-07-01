@@ -42,6 +42,7 @@
         <url>https://github.com/getconverge/converge-nar</url>
         <developerConnection>scm:git:https://github.com/getconverge/converge-nar.git</developerConnection>
         <connection>scm:git:https://github.com/getconverge/converge-nar.git</connection>
+        <tag>master</tag>
     </scm>
     
     <issueManagement>
