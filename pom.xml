@@ -223,7 +223,7 @@
         <repository>
             <id>mvn.getconverge.com</id>
             <name>GetConverge Maven Artifact Repository</name>
-            <url>scp://mvn.getconverge.com:/var/www/mvn</url>
+            <url>file:///var/www/mvn</url>
         </repository>
     </distributionManagement>
     
